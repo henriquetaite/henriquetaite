@@ -1,16 +1,24 @@
-## Hi there 👋
+# Henrique Taite Mendes
 
-<!--
-**henriquetaite/henriquetaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst focused on Business Intelligence and Data Analytics.
 
-Here are some ideas to get you started:
+## About Me
+Background in Business Administration with hands-on experience in operations, e-commerce and data analysis for decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing practical projects in Data Analytics and Business Intelligence.
+
+## Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Power BI
+- Data Analysis
+
+## Projects
+- EDA – Sales Data Analysis (Python)
+- Business Dashboard (Power BI)
+- SQL Analysis
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/henrique-taite-mendes-4803441b5
+
+
